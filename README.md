@@ -1,1 +1,1 @@
-Backspacefm_X-side===概要---<http://backspace.fm/>に各sideのリンクを挿入するUserScript
+#Backspacefm_X-side<http://backspace.fm/>に各sideのリンクを挿入するUserScript  TampermonkeyやGreasemonkeyにて動作します。  Sleipnir Mobile for Androidにて使用するには[Releases](https://github.com/asymme/Backspacefm_X-side/releases)よりインストール可能です。
